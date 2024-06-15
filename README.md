@@ -1,1 +1,2 @@
 # landing-page
+This is the project: Landing Page from the Odin Project foundations course. Upon completion of this project, I expect to be more comfortable using Flexbox in order to make a complex web page.
